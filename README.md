@@ -1,2 +1,2 @@
-### NURI(DEX on scroll chain) ALERT
-## through telegram bot interface
+## NURI(DEX on scroll chain) ALERT
+### through telegram bot interface
